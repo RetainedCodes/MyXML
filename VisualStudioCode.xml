@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootelement>
+    <name>Visual Studio Code</name>
+    <developer>Microsoft Corporation</developer>
+    <canEnablePlugins>True</canEnablePlugins>
+    <open-source>False</open-source>
+    <codeCanBeRanInProgram>True</codeCanBeRanInProgram>
+</rootelement>

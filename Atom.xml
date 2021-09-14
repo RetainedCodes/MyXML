@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootelement>
+    <name>Atom</name>
+    <developer>Github</developer>
+    <canEnablePlugins>true</canEnablePlugins>
+    <open-source>True</open-source>
+    <codeCanBeRanInProgram>False</codeCanBeRanInProgram>
+</rootelement>
