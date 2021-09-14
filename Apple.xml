@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootelement>
+    <name>Apple</name>
+    <workers>100000</workers>
+    <CEO>Tim Cook</CEO>
+    <revenue>100000</revenue>
+</rootelement>
